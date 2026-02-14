@@ -1,4 +1,17 @@
 # Real-Time-Chat-Application-task-2
+
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : VIJAY TIWARI
+
+*INTERN ID* : CTIS3387
+
+*DOMAIN* : Full Stack Web Development
+
+*DURATION* : 6 WEEKS
+
+*MENTOR* : Neela Santhosh Kumar 
+
 Project Title: Real-Time Chat Application using Socket.IO
 Objective
 The objective of this task was to build a real-time chat application using WebSocket technology, enabling instant communication between multiple users with frontend and backend integration.
