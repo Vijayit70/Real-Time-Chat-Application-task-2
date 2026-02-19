@@ -73,7 +73,13 @@ task2-chat-app/
 5.	Open in browser:
 6.	http://localhost:3000
 7.	Open the URL in multiple tabs to test real-time chat.
-Output
+   
+**Output**
+<img width="1920" height="1080" alt="task2(1)" src="https://github.com/user-attachments/assets/6750a8df-e6fd-4f15-9492-c66f0b7402e5" />
+<img width="1920" height="1080" alt="task2Incog" src="https://github.com/user-attachments/assets/125d9db1-046b-47d9-8723-b7eaf039fa3a" />
+<img width="1920" height="1080" alt="task2d" src="https://github.com/user-attachments/assets/ed19f7ba-2f0d-4bb9-a81c-6a35a31285c0" />
+
+
 Messages are delivered instantly between connected users without page refresh.
 Author
 Vijay Tiwari
